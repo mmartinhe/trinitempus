@@ -7,22 +7,12 @@ footer{
 
 
 #logo{
-    width: 400px;
-    height: 400px;
-    position: absolute;
     margin-left: 180px;
 }
 
 #frase{
-    position: relative;
-    width: 350px;
-    height: fit-content;
-    margin-left: 240px;
+    margin-left: 210px;
+
 }
 
-#tablaDemandados{
-    background-color: white;
-    float: right;
-    width: 400px;
-    height: 400px;
-}
+
