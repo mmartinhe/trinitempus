@@ -10,8 +10,9 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <title>Trinitempus</title>
+
     <!--Icono de pestaña -->
-    <link rel = "shortcut icon" href= {{asset('imagenes/logoTriniTiempo.png')}}/>
+    <link rel="icon" href="{{asset('imagenes/logo.png')}}">
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
@@ -27,7 +28,7 @@
 </head>
 <body>
     <div id="app">
-        <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
+        <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm" >
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
                    Trinitempus

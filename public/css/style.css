@@ -5,8 +5,14 @@ footer{
     text-align: center;
 }
 
+#login{
+    width: 400px;
+    height: 400px;
+    float: right;
+}
 
 #logo{
+    position: relative;
     margin-left: 180px;
 }
 
