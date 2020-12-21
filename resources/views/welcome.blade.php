@@ -9,9 +9,7 @@
     <h1>El tiempo es dinero</h1>
 </div>
 
-<footer class="fixed-bottom">
-    <p>Copyright &copy; 2020 Trinitempus, todos los derechos reservados.</p>
-</footer>
+
 @endsection
 
 

@@ -81,5 +81,8 @@
             @yield('content')
         </main>
     </div>
+    <footer class="fixed-bottom">
+        <p>Copyright &copy; 2020 Trinitempus, todos los derechos reservados.</p>
+    </footer>
 </body>
 </html>
